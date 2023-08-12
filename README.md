@@ -2,7 +2,7 @@
 
 A simple counting game with music, effects, sound and balloons. You just to burst the balloons before they go above screen and increase your score.
 
-![GamePlay](Temp/play1.png)
+![GamePlay](Assets/play1.png)
 
 ## How to Run
 
